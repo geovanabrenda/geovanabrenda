@@ -13,8 +13,8 @@
  </div>
 
 
-#  i'm ge :)
-<h3>programmer and developer</h3>
+
+
 <!--ícones e imagem das estatísticas-->
 <div>
   <h3>My Github Stats</h3>
